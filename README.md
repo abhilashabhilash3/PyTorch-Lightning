@@ -1,1 +1,1 @@
-# PyTorch-Lightning
+# MNIST Classification with PyTorch Lightning
